@@ -24,7 +24,7 @@ Classificador de sentimentos (positivo/negativo) para reviews de filmes usando N
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
 │                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+│                         `logistic_regression.ipynb`.
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
 │                         nlp_review_classifier and configuration for tools like black
